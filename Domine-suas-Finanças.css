@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/Designnome2.png");
+  background-image: url("./public/images/Designnome2.png");
   background-position: 50% 50%;
 }
 
@@ -1125,7 +1125,7 @@
     padding: 12px 34px 13px 33px;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/9d63430d-8f5d-4697-9139-18d3979ac77d.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("./public/images/9d63430d-8f5d-4697-9139-18d3979ac77d.jpg");
   background-position: 50% 50%;
 }
 
@@ -3123,7 +3123,7 @@
 
 .u-section-12 .u-image-1 {
   min-height: 688px;
-  background-image: url("images/ju-3.png");
+  background-image: url("./public/images/ju-3.png");
   background-position: 78.17% 50%;
 }
 
