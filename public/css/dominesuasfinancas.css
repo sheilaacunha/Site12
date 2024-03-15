@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: url("./public/images/Designnome2.png");
+  background-image: url("../images/designnome2.png");
+  background-color: black;
   background-position: 50% 50%;
 }
 
@@ -3123,7 +3124,7 @@
 
 .u-section-12 .u-image-1 {
   min-height: 688px;
-  background-image: url("./public/images/ju-3.png");
+  background-image: url("../images/ju-3.png");
   background-position: 78.17% 50%;
 }
 
